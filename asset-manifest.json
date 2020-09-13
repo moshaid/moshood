@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/moshood/static/css/main.44d15bbe.chunk.css",
+    "main.css": "/moshood/static/css/main.6d6c8808.chunk.css",
     "main.js": "/moshood/static/js/main.fc5eca37.chunk.js",
     "main.js.map": "/moshood/static/js/main.fc5eca37.chunk.js.map",
     "runtime-main.js": "/moshood/static/js/runtime-main.535351d9.js",
@@ -9,10 +9,10 @@
     "static/js/2.db495119.chunk.js": "/moshood/static/js/2.db495119.chunk.js",
     "static/js/2.db495119.chunk.js.map": "/moshood/static/js/2.db495119.chunk.js.map",
     "index.html": "/moshood/index.html",
-    "precache-manifest.c59fc9b342f997db47641d23fad9a3f4.js": "/moshood/precache-manifest.c59fc9b342f997db47641d23fad9a3f4.js",
+    "precache-manifest.a4171ad577605bc88702b3e17e5bab82.js": "/moshood/precache-manifest.a4171ad577605bc88702b3e17e5bab82.js",
     "service-worker.js": "/moshood/service-worker.js",
     "static/css/2.4cdfa564.chunk.css.map": "/moshood/static/css/2.4cdfa564.chunk.css.map",
-    "static/css/main.44d15bbe.chunk.css.map": "/moshood/static/css/main.44d15bbe.chunk.css.map",
+    "static/css/main.6d6c8808.chunk.css.map": "/moshood/static/css/main.6d6c8808.chunk.css.map",
     "static/js/2.db495119.chunk.js.LICENSE.txt": "/moshood/static/js/2.db495119.chunk.js.LICENSE.txt",
     "static/media/R1.png": "/moshood/static/media/R1.ae7685cc.png",
     "static/media/R2.png": "/moshood/static/media/R2.0054e60c.png",
@@ -67,7 +67,7 @@
     "static/js/runtime-main.535351d9.js",
     "static/css/2.4cdfa564.chunk.css",
     "static/js/2.db495119.chunk.js",
-    "static/css/main.44d15bbe.chunk.css",
+    "static/css/main.6d6c8808.chunk.css",
     "static/js/main.fc5eca37.chunk.js"
   ]
 }
