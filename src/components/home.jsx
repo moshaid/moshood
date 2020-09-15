@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Typed from 'react-typed';
 import imga from "../image/illustration2.png";
-import imgad from "../image/richr/R1.png";
+import imgad from "../image/richr/R1.jpeg";
 import author from "../image/author.jpg";
 import fitness from "../image/workFit.jpg";
 

@@ -4,9 +4,6 @@ import {
   p2,
   p3,
   p4,
-  p5,
-  p6,
-  p7,
   g1,
   g2,
   g3,
@@ -15,11 +12,6 @@ import {
   c1,
   c2,
   c3,
-  c4,
-  c5,
-  c6,
-  c7,
-  c8,
   r1,
   r2,
   r3,
@@ -30,19 +22,10 @@ import {
   n3,
   n4,
   n5,
-  n6,
-  n7,
-  n8,
-  n9,
-  n10,
-  n11,
   s1,
   s2,
   s3,
-  s4,
-  s5,
-  s6,
-  s7
+  s4
 } from "../helpers/images";
 
 class Port extends Component {
@@ -154,27 +137,6 @@ class Port extends Component {
                     >
                       jsx-a11y/anchor-has-content warning
                     </a>
-                    <a
-                      href={p5}
-                      data-lightbox="gallery-mf"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={p6}
-                      data-lightbox="gallery-mf"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={p7}
-                      data-lightbox="gallery-mf"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
                   </div>
                 </div>
 
@@ -271,41 +233,6 @@ class Port extends Component {
                     >
                       jsx-a11y/anchor-has-content warning
                     </a>
-                    <a
-                      href={c4}
-                      data-lightbox="gallery-smth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={c5}
-                      data-lightbox="gallery-smth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={c6}
-                      data-lightbox="gallery-smth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={c7}
-                      data-lightbox="gallery-smth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={c8}
-                      data-lightbox="gallery-smth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
                   </div>
                 </div>
 
@@ -361,48 +288,6 @@ class Port extends Component {
                     >
                       jsx-a11y/anchor-has-content warning
                     </a>
-                    <a
-                      href={n6}
-                      data-lightbox="gallery-dth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={n7}
-                      data-lightbox="gallery-dth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={n8}
-                      data-lightbox="gallery-dth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={n9}
-                      data-lightbox="gallery-dth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={n10}
-                      data-lightbox="gallery-dth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={n11}
-                      data-lightbox="gallery-dth"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
                   </div>
                 </div>
 
@@ -446,27 +331,6 @@ class Port extends Component {
                     </a>
                     <a
                       href={s4}
-                      data-lightbox="gallery-sha"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={s5}
-                      data-lightbox="gallery-sha"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={s6}
-                      data-lightbox="gallery-sha"
-                      style={{ display: "none" }}
-                    >
-                      jsx-a11y/anchor-has-content warning
-                    </a>
-                    <a
-                      href={s7}
                       data-lightbox="gallery-sha"
                       style={{ display: "none" }}
                     >
