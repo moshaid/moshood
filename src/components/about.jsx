@@ -36,18 +36,17 @@ class About extends Component {
                     
                     <div className="about-form">
                         <h3>Contact me</h3>
+                        <p>Name *</p>
                         <form onSubmit={this.submitForm} action="https://formspree.io/xpzylbvr" method="POST">
                             <div className="form-format">
                                 <div className="first">
-                                    <label for="fname">Name *</label><br></br>
                                     <input type="text" id="fname" name="fname" required /><br></br>
-                                    First Name
+                                    <label for="fname">First Name</label><br></br>
                                 </div>
 
                                 <div className="second">
-                                    <label for="fname"></label><br></br>
                                     <input type="text" id="fname" name="fname" required /><br></br>
-                                    Last Name
+                                    <label for="fname">Last Name</label><br></br>                                   
                                 </div>
                             </div>
 
