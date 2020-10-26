@@ -51,7 +51,7 @@ class Home extends Component {
                         <span>The New Way to Buy and Sell Homes <br></br> Commission-free.</span>
 
                         <div className="prop">
-                            <a className="project" href="https://github.com/moshaid/Richr">VIEW PROJECT</a>
+                            <a className="project" href="https://moshaid.github.io/Richr/">VIEW PROJECT</a>
                         </div>
                     </div>                  
                 </div>
