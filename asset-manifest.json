@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/moshood/static/css/main.6d6c8808.chunk.css",
-    "main.js": "/moshood/static/js/main.d356594c.chunk.js",
-    "main.js.map": "/moshood/static/js/main.d356594c.chunk.js.map",
+    "main.js": "/moshood/static/js/main.7746b4ea.chunk.js",
+    "main.js.map": "/moshood/static/js/main.7746b4ea.chunk.js.map",
     "runtime-main.js": "/moshood/static/js/runtime-main.535351d9.js",
     "runtime-main.js.map": "/moshood/static/js/runtime-main.535351d9.js.map",
     "static/css/2.4cdfa564.chunk.css": "/moshood/static/css/2.4cdfa564.chunk.css",
     "static/js/2.8495e0bd.chunk.js": "/moshood/static/js/2.8495e0bd.chunk.js",
     "static/js/2.8495e0bd.chunk.js.map": "/moshood/static/js/2.8495e0bd.chunk.js.map",
     "index.html": "/moshood/index.html",
-    "precache-manifest.bf814339fc13923212eb318ce7080852.js": "/moshood/precache-manifest.bf814339fc13923212eb318ce7080852.js",
+    "precache-manifest.42e7a33db647aee768f8aef1e1a3ab50.js": "/moshood/precache-manifest.42e7a33db647aee768f8aef1e1a3ab50.js",
     "service-worker.js": "/moshood/service-worker.js",
     "static/css/2.4cdfa564.chunk.css.map": "/moshood/static/css/2.4cdfa564.chunk.css.map",
     "static/css/main.6d6c8808.chunk.css.map": "/moshood/static/css/main.6d6c8808.chunk.css.map",
@@ -51,6 +51,6 @@
     "static/css/2.4cdfa564.chunk.css",
     "static/js/2.8495e0bd.chunk.js",
     "static/css/main.6d6c8808.chunk.css",
-    "static/js/main.d356594c.chunk.js"
+    "static/js/main.7746b4ea.chunk.js"
   ]
 }
