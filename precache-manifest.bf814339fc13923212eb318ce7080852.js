@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb1a4f09e54a7f3941ff0ff586315ec7",
+    "revision": "8e242c802fa122035c7fe03f9c83a4ed",
     "url": "/moshood/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moshood/static/css/2.4cdfa564.chunk.css"
   },
   {
-    "revision": "cd97875de7d38254c009",
+    "revision": "6a4de23bc3694fe23d5a",
     "url": "/moshood/static/css/main.6d6c8808.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moshood/static/js/2.8495e0bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd97875de7d38254c009",
-    "url": "/moshood/static/js/main.53488f5d.chunk.js"
+    "revision": "6a4de23bc3694fe23d5a",
+    "url": "/moshood/static/js/main.d356594c.chunk.js"
   },
   {
     "revision": "92ef91dfb8b37b9ee5ce",
