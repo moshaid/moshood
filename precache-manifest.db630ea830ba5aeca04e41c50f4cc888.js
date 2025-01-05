@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8bbb74a0781ff513c537bdba2deab55",
+    "revision": "f67588b038c20cc7583a726c0737282d",
     "url": "/moshood/index.html"
   },
   {
-    "revision": "0fb81cddb1bbaf9f9788",
+    "revision": "29bb6841cdf832fb4d84",
     "url": "/moshood/static/css/2.4cdfa564.chunk.css"
   },
   {
-    "revision": "f8e6cd25c9b99c01f98d",
-    "url": "/moshood/static/css/main.6d6c8808.chunk.css"
+    "revision": "823a97db5596323aac73",
+    "url": "/moshood/static/css/main.30ebda11.chunk.css"
   },
   {
-    "revision": "0fb81cddb1bbaf9f9788",
-    "url": "/moshood/static/js/2.8495e0bd.chunk.js"
+    "revision": "29bb6841cdf832fb4d84",
+    "url": "/moshood/static/js/2.cbd759e4.chunk.js"
   },
   {
     "revision": "1ae1f4f7d22e0182c0df3d455be8f987",
-    "url": "/moshood/static/js/2.8495e0bd.chunk.js.LICENSE.txt"
+    "url": "/moshood/static/js/2.cbd759e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8e6cd25c9b99c01f98d",
-    "url": "/moshood/static/js/main.7746b4ea.chunk.js"
+    "revision": "823a97db5596323aac73",
+    "url": "/moshood/static/js/main.e297533c.chunk.js"
   },
   {
     "revision": "92ef91dfb8b37b9ee5ce",
