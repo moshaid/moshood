@@ -20,7 +20,7 @@ class About extends Component {
 
                         <div className="about-content">
                             <h2 className="hello">Hello I'm Moshood Alabidun</h2>
-                            <p className="about-p">I am a Frontend Engineer, based in Luton, United Kingdom. 
+                            <p className="about-p">I am a Frontend Engineer, based in United Kingdom. 
                                 My approach to software development is rooted in my background as a computer-science graduate, start by understanding the audience. 
                                 Learning about the user through research and the nuances of the product itself and its industry is how I bridge the gap between stakeholder goals and user needs. 
                                 I’m passionate about unobtrusive, streamlined, user centered design.
